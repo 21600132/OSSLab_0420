@@ -1,5 +1,7 @@
 #include "header.h"
 
+// add some command
+
 int main(int argc, char** argv)
 {
     int student_id = atoi(argv[1]);
