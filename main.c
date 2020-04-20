@@ -1,6 +1,6 @@
 #include "header.h"
 
-// add some command
+// add some comment
 
 int main(int argc, char** argv)
 {
